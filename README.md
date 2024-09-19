@@ -10,5 +10,5 @@ Welcome to GitHub!
 ### Find me!
 
 - [GitHub](https://github.com/QinYangWang)
-- [Twitter](https://twitter.com/EthanWQY)
+- [Twitter](https://twitter.com/oukinyou)
 - [Blog](https://qinyang.wang)
